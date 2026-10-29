@@ -1,0 +1,2 @@
+source,product,s,alpha,lam,seed,seconds,rank,iters,converged,auprc,prec_at_k,nnz_frac
+20cr,air,0.25,0.85,0.72,0,9.8,270,500,False,0.85876,0.81602,0.11291

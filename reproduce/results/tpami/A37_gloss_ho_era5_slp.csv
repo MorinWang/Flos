@@ -1,0 +1,4 @@
+source,product,seed,lam,auprc,prec_at_k,nnz_frac,iters,seconds
+era5,slp,0,1e-05,0.25581,0.28794,0.99987,12,401
+era5,slp,1,1e-05,0.18969,0.24918,0.99987,12,358
+era5,slp,2,1e-05,0.34208,0.35142,0.99987,12,169

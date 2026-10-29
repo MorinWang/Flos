@@ -1,0 +1,22 @@
+source,product,method,setting,seed,seconds,auprc,prec_at_k,pos_rate,n_pos,nnz_frac,extra
+20cr,air,fixed,0.36,0,12.5,0.84600,0.80168,0.00024,2022,0.20525,rank=270 iters=500 conv=False
+20cr,air,fixed,0.36,1,10.0,0.79155,0.75709,0.00028,2363,0.20483,rank=271 iters=500 conv=False
+20cr,air,fixed,0.36,2,11.7,0.76884,0.73298,0.00018,1513,0.20474,rank=271 iters=500 conv=False
+20cr,slp,fixed,0.36,0,10.3,0.88833,0.85769,0.00058,4919,0.09971,rank=302 iters=500 conv=False
+20cr,slp,fixed,0.36,1,21.1,0.85736,0.81514,0.00042,3527,0.09940,rank=303 iters=500 conv=False
+20cr,slp,fixed,0.36,2,11.1,0.65483,0.62911,0.00049,4171,0.09941,rank=303 iters=500 conv=False
+20cr,pres,fixed,0.36,0,14.3,0.89135,0.85209,0.00044,3759,0.09809,rank=303 iters=500 conv=False
+20cr,pres,fixed,0.36,1,13.9,0.86644,0.82459,0.0005,4270,0.09820,rank=304 iters=500 conv=False
+20cr,pres,fixed,0.36,2,17.9,0.86788,0.80253,0.00082,6943,0.09820,rank=306 iters=500 conv=False
+20cr,pottmp,fixed,0.36,0,17.4,0.80533,0.76531,0.00021,1764,0.20569,rank=272 iters=500 conv=False
+20cr,pottmp,fixed,0.36,1,20.4,0.66648,0.64324,0.00018,1494,0.20522,rank=273 iters=500 conv=False
+20cr,pottmp,fixed,0.36,2,13.4,0.78046,0.74576,0.00024,2006,0.20460,rank=274 iters=500 conv=False
+20cr,rhum,fixed,0.36,0,12.3,0.70952,0.68444,7.9e-05,675,0.34107,rank=246 iters=500 conv=False
+20cr,rhum,fixed,0.36,1,15.0,0.69655,0.66722,7e-05,598,0.34217,rank=245 iters=500 conv=False
+20cr,rhum,fixed,0.36,2,13.2,0.68710,0.65257,6.4e-05,544,0.34272,rank=244 iters=500 conv=False
+20cr,omega,fixed,0.36,0,12.2,0.81843,0.80153,4.6e-05,393,0.43064,rank=257 iters=426 conv=True
+20cr,omega,fixed,0.36,1,12.0,0.72087,0.70983,4.9e-05,417,0.43065,rank=257 iters=413 conv=True
+20cr,omega,fixed,0.36,2,13.0,0.78078,0.76433,3.7e-05,314,0.43067,rank=257 iters=354 conv=True
+20cr,cape,fixed,0.36,0,22.2,0.77932,0.77293,7.8e-05,665,0.42840,rank=277 iters=298 conv=True
+20cr,cape,fixed,0.36,1,15.1,0.74670,0.73659,7.5e-05,634,0.42843,rank=277 iters=331 conv=True
+20cr,cape,fixed,0.36,2,12.4,0.65879,0.65139,5.9e-05,502,0.42811,rank=278 iters=306 conv=True

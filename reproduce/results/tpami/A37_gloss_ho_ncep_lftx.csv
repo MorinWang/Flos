@@ -1,0 +1,4 @@
+source,product,seed,lam,auprc,prec_at_k,nnz_frac,iters,seconds
+ncep,lftx,0,1e-05,0.17406,0.21429,0.99992,10,363
+ncep,lftx,1,1e-05,0.46903,0.46746,0.99993,10,325
+ncep,lftx,2,1e-05,0.21350,0.26017,0.99993,10,207

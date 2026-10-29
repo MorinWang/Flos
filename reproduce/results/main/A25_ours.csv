@@ -1,0 +1,22 @@
+source,product,method,setting,seed,seconds,auprc,prec_at_k,pos_rate,n_pos,nnz_frac,extra
+20cr,air,ours,0.72,0,92.5,0.85876,0.81602,0.00024,2022,0.11290,rank=270 iters=500 conv=False
+20cr,air,ours,0.72,1,16.5,0.80550,0.76809,0.00028,2363,0.11286,rank=271 iters=500 conv=False
+20cr,air,ours,0.72,2,16.0,0.77829,0.73959,0.00018,1513,0.11276,rank=271 iters=500 conv=False
+20cr,slp,ours,0.72,0,14.1,0.89396,0.86298,0.00058,4919,0.04920,rank=302 iters=500 conv=False
+20cr,slp,ours,0.72,1,14.5,0.87148,0.83272,0.00042,3527,0.04904,rank=303 iters=500 conv=False
+20cr,slp,ours,0.72,2,15.1,0.66127,0.63246,0.00049,4171,0.04906,rank=303 iters=500 conv=False
+20cr,pres,ours,0.72,0,17.8,0.90866,0.86486,0.00044,3759,0.05143,rank=303 iters=500 conv=False
+20cr,pres,ours,0.72,1,17.9,0.88035,0.83560,0.0005,4270,0.05143,rank=304 iters=500 conv=False
+20cr,pres,ours,0.72,2,16.5,0.89644,0.83019,0.00082,6943,0.05160,rank=306 iters=500 conv=False
+20cr,pottmp,ours,0.72,0,18.0,0.82061,0.77664,0.00021,1764,0.11249,rank=272 iters=500 conv=False
+20cr,pottmp,ours,0.72,1,22.6,0.67991,0.65663,0.00018,1494,0.11223,rank=273 iters=500 conv=False
+20cr,pottmp,ours,0.72,2,17.3,0.79329,0.75872,0.00024,2006,0.11206,rank=274 iters=500 conv=False
+20cr,rhum,ours,0.72,0,16.0,0.69568,0.66519,7.9e-05,675,0.18705,rank=246 iters=500 conv=False
+20cr,rhum,ours,0.72,1,16.2,0.68990,0.65385,7e-05,598,0.18741,rank=245 iters=500 conv=False
+20cr,rhum,ours,0.72,2,15.7,0.67324,0.63971,6.4e-05,544,0.18807,rank=244 iters=500 conv=False
+20cr,omega,ours,0.72,0,15.2,0.81859,0.80407,4.6e-05,393,0.28864,rank=257 iters=500 conv=False
+20cr,omega,ours,0.72,1,17.1,0.72107,0.70743,4.9e-05,417,0.28864,rank=257 iters=500 conv=False
+20cr,omega,ours,0.72,2,11.8,0.77981,0.76433,3.7e-05,314,0.28861,rank=257 iters=500 conv=False
+20cr,cape,ours,0.72,0,9.7,0.77745,0.77293,7.8e-05,665,0.35392,rank=277 iters=370 conv=True
+20cr,cape,ours,0.72,1,11.2,0.74356,0.73817,7.5e-05,634,0.35391,rank=277 iters=333 conv=True
+20cr,cape,ours,0.72,2,9.1,0.65584,0.64741,5.9e-05,502,0.35369,rank=278 iters=361 conv=True

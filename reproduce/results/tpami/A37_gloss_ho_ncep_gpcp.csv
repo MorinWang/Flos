@@ -1,0 +1,4 @@
+source,product,seed,lam,auprc,prec_at_k,nnz_frac,iters,seconds
+ncep,gpcp,0,1e-05,0.08389,0.14557,0.99979,10,199
+ncep,gpcp,1,1e-05,0.10888,0.19529,0.99979,10,174
+ncep,gpcp,2,1e-05,0.13708,0.21667,0.99980,10,187

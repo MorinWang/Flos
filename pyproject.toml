@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "flos"
+version = "1.0.0"
+description = "Decomposition of a field into a smooth background and sparse events under a spherical smoothness prior"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+dependencies = ["numpy>=1.24", "scipy>=1.10", "torch>=2.1", "xarray>=2023.1", "netCDF4>=1.6"]
+
+[project.optional-dependencies]
+examples = ["matplotlib>=3.7"]
+
+[tool.setuptools]
+packages = ["flos"]

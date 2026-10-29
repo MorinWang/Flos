@@ -1,0 +1,10 @@
+source,product,arm,lam,seed,seconds,rank,iters,converged,auprc,prec_at_k,nnz_frac
+ncep,air,full,0.72,0,136.5,324,500,False,0.84229,0.79389,0.12317
+ncep,air,full,0.72,1,128.7,324,500,False,0.84130,0.78468,0.12315
+ncep,air,full,0.72,2,130.0,323,500,False,0.65406,0.62522,0.12325
+ncep,slp,full,0.72,0,129.8,344,500,False,0.91536,0.86081,0.05305
+ncep,slp,full,0.72,1,127.5,343,500,False,0.70056,0.66660,0.05330
+ncep,slp,full,0.72,2,123.3,347,500,False,0.89942,0.86290,0.05307
+ncep,rhum,full,0.72,0,100.9,266,500,False,0.52563,0.49415,0.23064
+ncep,rhum,full,0.72,1,99.6,266,500,False,0.71970,0.67048,0.23065
+ncep,rhum,full,0.72,2,106.6,266,500,False,0.56797,0.51104,0.23065

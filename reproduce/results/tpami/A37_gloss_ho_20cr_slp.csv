@@ -1,0 +1,4 @@
+source,product,seed,lam,auprc,prec_at_k,nnz_frac,iters,seconds
+20cr,slp,0,1e-05,0.43720,0.45355,0.99988,12,376
+20cr,slp,1,1e-05,0.30161,0.32464,0.99988,12,319
+20cr,slp,2,1e-05,0.25111,0.26397,0.99987,12,208

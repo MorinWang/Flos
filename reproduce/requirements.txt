@@ -1,0 +1,15 @@
+# Versions of the environment the reported numbers were produced with (Python 3.10-3.12).
+numpy==2.1.2
+scipy==1.15.3
+pandas==2.2.3
+scikit-learn==1.6.1
+matplotlib==3.10.3
+xarray==2025.6.1
+netCDF4==1.7.4
+cftime==1.6.5
+torch>=2.1          # FLoS runs used a CUDA build in float32; a CPU build also works (FLOS_DEVICE=cpu)
+optuna==5.0.0       # baseline tuning (ScaledGD, LR-STSS)
+tensorly==0.9.0     # ScaledGD
+networkx==3.4.2     # LR-STSS
+cdsapi==0.7.7       # ERA5 download only
+imageio>=2.30         # README animations only

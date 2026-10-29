@@ -1,0 +1,16 @@
+source,product,arm,lam,seed,seconds,rank,iters,converged,obj_increases,obj_max_rel_increase,obj_final,auprc,prec_at_k,auprc_at500,nnz_frac,nnz_at500
+ncep,lftx,CORE-adapt,0.72,0,1.2,,84,True,,,,0.77376,0.73349,0.77376,0.02494,0.02494
+ncep,lftx,CORE-adapt,0.72,1,1.8,,84,True,,,,0.72691,0.70232,0.72691,0.02498,0.02498
+ncep,lftx,CORE-adapt,0.72,2,2.7,,84,True,,,,0.64644,0.60927,0.64644,0.02492,0.02492
+ncep,pres,CORE-adapt,0.72,0,2.2,,155,True,,,,0.88116,0.84675,0.88116,0.03654,0.03654
+ncep,pres,CORE-adapt,0.72,1,3.5,,154,True,,,,0.79970,0.74963,0.79970,0.03647,0.03647
+ncep,pres,CORE-adapt,0.72,2,3.7,,154,True,,,,0.82655,0.79161,0.82655,0.03656,0.03656
+ncep,omega,CORE-adapt,0.72,0,1.4,,69,True,,,,0.74785,0.73333,0.74785,0.10681,0.10681
+ncep,omega,CORE-adapt,0.72,1,1.3,,69,True,,,,0.75498,0.74599,0.75498,0.10680,0.10680
+ncep,omega,CORE-adapt,0.72,2,1.1,,69,True,,,,0.81804,0.80093,0.81804,0.10680,0.10680
+ncep,pottmp,CORE-adapt,0.72,0,2.4,,105,True,,,,0.66928,0.63543,0.66928,0.07819,0.07819
+ncep,pottmp,CORE-adapt,0.72,1,2.3,,105,True,,,,0.71190,0.67534,0.71190,0.07818,0.07818
+ncep,pottmp,CORE-adapt,0.72,2,3.2,,105,True,,,,0.75597,0.72075,0.75597,0.07818,0.07818
+ncep,gpcp,CORE-adapt,0.72,0,1.3,,90,True,,,,0.70191,0.68354,0.70191,0.12370,0.12370
+ncep,gpcp,CORE-adapt,0.72,1,0.7,,90,True,,,,0.73455,0.71529,0.73455,0.12370,0.12370
+ncep,gpcp,CORE-adapt,0.72,2,1.3,,90,True,,,,0.73035,0.70000,0.73035,0.12368,0.12368
