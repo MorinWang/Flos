@@ -4,7 +4,6 @@ Code, result files and figures for the paper
 
 > **Spherical Smoothness Priors for Separating Extremes from High-Rank Climate Fields**<br>
 > Maolin Wang, Hongyu Chen, Shuhua Yang, Haoxuan Li, Zhaoning Zhang, Hing Cheung So<br>
-> Submitted to *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2026.
 
 <p align="center">
   <img src="assets/flos_iterations.gif" width="100%" alt="FLoS separating one month of sea-level pressure round by round"><br>
@@ -145,16 +144,6 @@ reproduce/
   results/             result files of all experiments in the paper (CSV, NPZ)
 ```
 
-## Citation
-
-```bibtex
-@article{wang2026flos,
-  title   = {Spherical Smoothness Priors for Separating Extremes from High-Rank Climate Fields},
-  author  = {Wang, Maolin and Chen, Hongyu and Yang, Shuhua and Li, Haoxuan and Zhang, Zhaoning and So, Hing Cheung},
-  journal = {Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year    = {2026}
-}
-```
 
 ## License and data
 
